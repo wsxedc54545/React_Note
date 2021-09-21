@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/js/main.5db4e421.chunk.js",
+    "main.js.map": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/js/main.5db4e421.chunk.js.map",
+    "runtime-main.js": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/js/runtime-main.a30e75b6.js",
+    "runtime-main.js.map": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/js/runtime-main.a30e75b6.js.map",
+    "static/js/2.ed6e7cca.chunk.js": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/js/2.ed6e7cca.chunk.js",
+    "static/js/2.ed6e7cca.chunk.js.map": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/js/2.ed6e7cca.chunk.js.map",
+    "static/js/3.ce956c15.chunk.js": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/js/3.ce956c15.chunk.js",
+    "static/js/3.ce956c15.chunk.js.map": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/js/3.ce956c15.chunk.js.map",
+    "index.html": "/wsxedc54545/wsxedc54545.github.io/React_Note/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ed6e7cca.chunk.js.LICENSE.txt": "/wsxedc54545/wsxedc54545.github.io/React_Note/static/js/2.ed6e7cca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a30e75b6.js",
+    "static/js/2.ed6e7cca.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5db4e421.chunk.js"
+  ]
+}
