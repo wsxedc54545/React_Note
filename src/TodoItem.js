@@ -14,6 +14,11 @@ const TodoItemWrapper = styled.div`
   text-overflow: ellipsis;
   line-height: 1.5;
   
+  &:hover {
+    border: 1px solid brown;
+    transform: scale(1.1);
+  }
+
   ${MEDIA_QUERY_MD} {
     min-width: 300px;
   }
@@ -43,11 +48,12 @@ const DeleteButton = styled.button`
   position: absolute;
   top: 5px;
   right: 5px;
-  background: #5F5E70;
+  // background: #5F5E70;
   border: none;
 
   &:hover {
-    color: yellow;
+    border: 1px solid brown;
+    transform: scale(1.1);
   }
 `
 
