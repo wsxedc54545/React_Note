@@ -4,7 +4,7 @@ import { MEDIA_QUERY_MD, MEDIA_QUERY_SM } from './constants/style';
 
 const TodoItemWrapper = styled.div`
   position: relative;
-  background-color: #32CD32;width: 200px;height: 200px;
+  background-color: rgba(255,211,112,1);width: 200px;height: 200px;
   margin: 10px;
   display: wrap;
   justify-content: center;
